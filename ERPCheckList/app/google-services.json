@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "412235455301",
+    "firebase_url": "https://rodoborges01.firebaseio.com",
+    "project_id": "rodoborges01",
+    "storage_bucket": "rodoborges01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412235455301:android:6d74059892d8213d",
+        "android_client_info": {
+          "package_name": "rodoborges.erp.com.erp_checklist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412235455301-p0p3jvnqs16go8sld5en4149t08o45ms.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "rodoborges.erp.com.erp_checklist",
+            "certificate_hash": "6c17c9ebc743082ecfc5fbd28dbcc6ebaf48e301"
+          }
+        },
+        {
+          "client_id": "412235455301-97pi6a59pu3pest2s3c23qqjt1sbivjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3qq7lx77B1I72Z1rN3ey9QoannBgQhI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412235455301-97pi6a59pu3pest2s3c23qqjt1sbivjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
